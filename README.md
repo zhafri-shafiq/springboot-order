@@ -11,7 +11,7 @@ docker-compose up -d
 - HTTP on port 8080
 
 ## Api Documentation
-Go to /swagger-ui/
+Go to /swagger-ui/index.html
 
 ## To-do
 
