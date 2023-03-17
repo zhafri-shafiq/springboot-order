@@ -6,7 +6,7 @@
 
 ```bash
 cd project-folder
-docker-compose 
+docker-compose up -d
 ```
 - HTTP on port 8080
 
